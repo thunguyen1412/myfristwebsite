@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-size: 18px;
+}
+
+.icon {
+    color: #e9cccc;
+    font-size: 28px;
+    font-family: cambria;
+    padding-top: 20px;
+    margin-left: 20px;
+}
+
+.content {
+    color: black;
+    font-family: cambria;
+    padding: 2rem 30rem;
+    font-size: 28px;
+}
+p {
+    padding: 2rem 2rem 2rem 2rem;
+}
+
+figure {
+padding-left: 4rem;
+padding-top: 2rem;
+padding-bottom: 2rem;
+}

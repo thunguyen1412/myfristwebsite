@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.icon {
+    color: #e9cccc;
+    font-size: 28px;
+    font-family: cambria;
+    padding-top: 20px;
+    margin-left: 20px;
+}

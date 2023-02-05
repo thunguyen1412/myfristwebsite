@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-size: 18px;
+}
+
+.icon {
+    color: #e9cccc;
+    font-size: 28px;
+    font-family: cambria;
+    padding-top: 20px;
+    margin-left: 20px;
+}
+.content {
+    color: rgb(226, 100, 100);
+    font-family: forte;
+    padding: 2rem 30rem;
+    font-size: 28px;
+}
+p {
+    padding: 0.3rem 2rem 0rem 2rem;
+}
+.figure {
+    padding-left: 2rem;
+    padding-top: 0.5rem;
+    padding-bottom: 2rem;
+    text-align: center;
+    }
+.img {
+padding-left: 20rem;
+padding-top: 0.5rem;
+padding-bottom: 2rem;
+text-align: center;
+}
+h4 {
+    padding: 0.3rem 2rem 0rem 2rem;
+    color:#8f4c4c;
+    font-family: forte;
+}
+.pink {
+    color:#8f4c4c;
+    font-family: forte;
+}
